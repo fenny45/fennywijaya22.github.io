@@ -1,0 +1,23 @@
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: rgb(249, 237, 213);
+}
+
+#skills {
+    background-color: #fdf4dc;
+}
+
+section{
+    padding-top: 5rem;
+}
+
+.display-4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow:  1px 4px 10px rgb(246, 203, 122);
+}
+
+.navbar-brand{
+    font-weight: bold;
+}
+
